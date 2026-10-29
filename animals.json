@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "animal_001",
+    "name_ko": "고양이",
+    "name_en": "Domestic cat",
+    "scientific_name": "Felis catus",
+    "image": "assets/animals_1.png",
+    "cell": 0,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "새벽과 저녁에도 활발한 야행성·박명성 동물입니다.",
+    "source": "https://animaldiversity.org/accounts/Felis_catus/",
+    "crop": [
+      25,
+      0,
+      223,
+      252
+    ]
+  },
+  {
+    "id": "animal_002",
+    "name_ko": "개",
+    "name_en": "Domestic dog",
+    "scientific_name": "Canis lupus familiaris",
+    "image": "assets/animals_1.png",
+    "cell": 1,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "사람과 생활하는 대표 성체 기준입니다. 잡식성입니다.",
+    "source": "https://animaldiversity.org/accounts/Canis_lupus_familiaris/",
+    "crop": [
+      248,
+      0,
+      501,
+      252
+    ]
+  },
+  {
+    "id": "animal_003",
+    "name_ko": "사자",
+    "name_en": "Lion",
+    "scientific_name": "Panthera leo",
+    "image": "assets/animals_1.png",
+    "cell": 2,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "갈기가 있는 수컷 그림입니다. 밤과 서늘한 시간에 사냥합니다.",
+    "source": "https://animaldiversity.org/accounts/Panthera_leo/",
+    "crop": [
+      510,
+      0,
+      756,
+      255
+    ]
+  },
+  {
+    "id": "animal_004",
+    "name_ko": "호랑이",
+    "name_en": "Tiger",
+    "scientific_name": "Panthera tigris",
+    "image": "assets/animals_1.png",
+    "cell": 3,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "주로 밤에 사냥하며 수영 능력만으로 물속 생활로 분류하지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Panthera_tigris/",
+    "crop": [
+      758,
+      4,
+      998,
+      258
+    ]
+  },
+  {
+    "id": "animal_005",
+    "name_ko": "치타",
+    "name_en": "Cheetah",
+    "scientific_name": "Acinonyx jubatus",
+    "image": "assets/animals_1.png",
+    "cell": 4,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "다른 대형 고양잇과와 달리 낮에 사냥하는 경우가 많습니다.",
+    "source": "https://animaldiversity.org/accounts/Acinonyx_jubatus/",
+    "crop": [
+      1009,
+      0,
+      1254,
+      254
+    ]
+  },
+  {
+    "id": "animal_006",
+    "name_ko": "붉은여우",
+    "name_en": "Red fox",
+    "scientific_name": "Vulpes vulpes",
+    "image": "assets/animals_1.png",
+    "cell": 5,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "주로 밤과 박명기에 활동하는 잡식동물입니다.",
+    "source": "https://animaldiversity.org/accounts/Vulpes_vulpes/",
+    "crop": [
+      0,
+      260,
+      251,
+      510
+    ]
+  },
+  {
+    "id": "animal_007",
+    "name_ko": "회색늑대",
+    "name_en": "Gray wolf",
+    "scientific_name": "Canis lupus",
+    "image": "assets/animals_1.png",
+    "cell": 6,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "밤과 박명기에 활발하며 지역에 따라 낮에도 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Canis_lupus/",
+    "crop": [
+      261,
+      256,
+      504,
+      510
+    ]
+  },
+  {
+    "id": "animal_008",
+    "name_ko": "북극곰",
+    "name_en": "Polar bear",
+    "scientific_name": "Ursus maritimus",
+    "image": "assets/animals_1.png",
+    "cell": 7,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "일반 성체 기준입니다. 임신한 암컷의 굴 생활을 종 전체의 겨울잠으로 보지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Ursus_maritimus/",
+    "crop": [
+      507,
+      255,
+      754,
+      510
+    ]
+  },
+  {
+    "id": "animal_009",
+    "name_ko": "불곰",
+    "name_en": "Brown bear",
+    "scientific_name": "Ursus arctos",
+    "image": "assets/animals_1.png",
+    "cell": 8,
+    "traits": {
+      "herbivore": false,
+      "hibernate": true,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "겨울 굴에서 대사 활동이 줄어드는 겨울잠을 포함합니다. 활동 시간은 유동적입니다.",
+    "source": "https://animaldiversity.org/accounts/Ursus_arctos/",
+    "crop": [
+      760,
+      260,
+      1006,
+      514
+    ]
+  },
+  {
+    "id": "animal_010",
+    "name_ko": "자이언트판다",
+    "name_en": "Giant panda",
+    "scientific_name": "Ailuropoda melanoleuca",
+    "image": "assets/animals_1.png",
+    "cell": 9,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "주식은 대나무이며 겨울잠을 자지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Ailuropoda_melanoleuca/",
+    "crop": [
+      1007,
+      276,
+      1254,
+      514
+    ]
+  },
+  {
+    "id": "animal_011",
+    "name_ko": "레서판다",
+    "name_en": "Red panda",
+    "scientific_name": "Ailurus fulgens",
+    "image": "assets/animals_1.png",
+    "cell": 10,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "대나무 중심 식단이며 주로 밤과 박명기에 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Ailurus_fulgens/",
+    "crop": [
+      0,
+      518,
+      250,
+      748
+    ]
+  },
+  {
+    "id": "animal_012",
+    "name_ko": "라쿤",
+    "name_en": "Raccoon",
+    "scientific_name": "Procyon lotor",
+    "image": "assets/animals_1.png",
+    "cell": 11,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "잡식성입니다. 겨울의 긴 휴식은 이 게임의 겨울잠에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Procyon_lotor/",
+    "crop": [
+      253,
+      511,
+      500,
+      743
+    ]
+  },
+  {
+    "id": "animal_013",
+    "name_ko": "줄무늬스컹크",
+    "name_en": "Striped skunk",
+    "scientific_name": "Mephitis mephitis",
+    "image": "assets/animals_1.png",
+    "cell": 12,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "야행성 잡식동물입니다. 겨울 활동 감소는 겨울잠에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Mephitis_mephitis/",
+    "crop": [
+      502,
+      512,
+      749,
+      739
+    ]
+  },
+  {
+    "id": "animal_014",
+    "name_ko": "유럽오소리",
+    "name_en": "European badger",
+    "scientific_name": "Meles meles",
+    "image": "assets/animals_1.png",
+    "cell": 13,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "야행성 잡식동물입니다. 겨울의 휴면은 엄격한 겨울잠에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Meles_meles/",
+    "crop": [
+      755,
+      526,
+      999,
+      746
+    ]
+  },
+  {
+    "id": "animal_015",
+    "name_ko": "유럽고슴도치",
+    "name_en": "European hedgehog",
+    "scientific_name": "Erinaceus europaeus",
+    "image": "assets/animals_1.png",
+    "cell": 14,
+    "traits": {
+      "herbivore": false,
+      "hibernate": true,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "추운 계절에 겨울잠을 자며 가시 사이와 배에 털이 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Erinaceus_europaeus/",
+    "crop": [
+      1003,
+      548,
+      1254,
+      745
+    ]
+  },
+  {
+    "id": "animal_016",
+    "name_ko": "유럽토끼",
+    "name_en": "European rabbit",
+    "scientific_name": "Oryctolagus cuniculus",
+    "image": "assets/animals_1.png",
+    "cell": 15,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식성이며 밤과 박명기에 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Oryctolagus_cuniculus/",
+    "crop": [
+      16,
+      750,
+      225,
+      995
+    ]
+  },
+  {
+    "id": "animal_017",
+    "name_ko": "유럽산토끼",
+    "name_en": "European hare",
+    "scientific_name": "Lepus europaeus",
+    "image": "assets/animals_1.png",
+    "cell": 16,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식성이며 주로 밤과 박명기에 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Lepus_europaeus/",
+    "crop": [
+      252,
+      742,
+      499,
+      995
+    ]
+  },
+  {
+    "id": "animal_018",
+    "name_ko": "청설모",
+    "name_en": "Red squirrel",
+    "scientific_name": "Sciurus vulgaris",
+    "image": "assets/animals_1.png",
+    "cell": 17,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "식물성 먹이가 주식이며 낮에 활동합니다. 겨울잠을 자지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Sciurus_vulgaris/",
+    "crop": [
+      511,
+      770,
+      751,
+      995
+    ]
+  },
+  {
+    "id": "animal_019",
+    "name_ko": "동부다람쥐",
+    "name_en": "Eastern chipmunk",
+    "scientific_name": "Tamias striatus",
+    "image": "assets/animals_1.png",
+    "cell": 18,
+    "traits": {
+      "herbivore": true,
+      "hibernate": true,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "씨앗·견과류가 주식이며 겨울잠 중 깨어 저장 먹이를 먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Tamias_striatus/",
+    "crop": [
+      763,
+      784,
+      1008,
+      997
+    ]
+  },
+  {
+    "id": "animal_020",
+    "name_ko": "골든햄스터",
+    "name_en": "Golden hamster",
+    "scientific_name": "Mesocricetus auratus",
+    "image": "assets/animals_1.png",
+    "cell": 19,
+    "traits": {
+      "herbivore": false,
+      "hibernate": true,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "잡식성이며 춥고 먹이가 부족할 때 겨울잠 상태에 들어갈 수 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Mesocricetus_auratus/",
+    "crop": [
+      1014,
+      764,
+      1254,
+      995
+    ]
+  },
+  {
+    "id": "animal_021",
+    "name_ko": "생쥐",
+    "name_en": "House mouse",
+    "scientific_name": "Mus musculus",
+    "image": "assets/animals_1.png",
+    "cell": 20,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "야행성 잡식동물이며 일반적인 겨울잠을 자지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Mus_musculus/",
+    "crop": [
+      0,
+      1037,
+      237,
+      1254
+    ]
+  },
+  {
+    "id": "animal_022",
+    "name_ko": "집쥐",
+    "name_en": "Brown rat",
+    "scientific_name": "Rattus norvegicus",
+    "image": "assets/animals_1.png",
+    "cell": 21,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "야행성 잡식동물입니다.",
+    "source": "https://animaldiversity.org/accounts/Rattus_norvegicus/",
+    "crop": [
+      247,
+      1017,
+      503,
+      1254
+    ]
+  },
+  {
+    "id": "animal_023",
+    "name_ko": "카피바라",
+    "name_en": "Capybara",
+    "scientific_name": "Hydrochoerus hydrochaeris",
+    "image": "assets/animals_1.png",
+    "cell": 22,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식성 반수생 동물입니다. 활동 시간은 환경에 따라 달라집니다.",
+    "source": "https://animaldiversity.org/accounts/Hydrochoerus_hydrochaeris/",
+    "crop": [
+      508,
+      995,
+      762,
+      1254
+    ]
+  },
+  {
+    "id": "animal_024",
+    "name_ko": "기니피그",
+    "name_en": "Guinea pig",
+    "scientific_name": "Cavia porcellus",
+    "image": "assets/animals_1.png",
+    "cell": 23,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "식물성 먹이를 먹고 하루 중 여러 번 나누어 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Cavia_porcellus/",
+    "crop": [
+      772,
+      1030,
+      1002,
+      1254
+    ]
+  },
+  {
+    "id": "animal_025",
+    "name_ko": "캐나다비버",
+    "name_en": "North American beaver",
+    "scientific_name": "Castor canadensis",
+    "image": "assets/animals_1.png",
+    "cell": 24,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식성 반수생 동물로 주로 밤에 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Castor_canadensis/",
+    "crop": [
+      1006,
+      994,
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "animal_026",
+    "name_ko": "아시아코끼리",
+    "name_en": "Asian elephant",
+    "scientific_name": "Elephas maximus",
+    "image": "assets/animals_2.png",
+    "cell": 0,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "상아는 뿔이 아니라 이빨입니다. 성체의 드문 털은 털 특성에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Elephas_maximus/",
+    "crop": [
+      0,
+      0,
+      257,
+      271
+    ]
+  },
+  {
+    "id": "animal_027",
+    "name_ko": "기린",
+    "name_en": "Giraffe",
+    "scientific_name": "Giraffa camelopardalis",
+    "image": "assets/animals_2.png",
+    "cell": 1,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "식물을 먹고 머리의 골질 돌기인 ossicone을 게임의 뿔에 포함합니다.",
+    "source": "https://animaldiversity.org/accounts/Giraffa_camelopardalis/",
+    "crop": [
+      270,
+      0,
+      478,
+      271
+    ]
+  },
+  {
+    "id": "animal_028",
+    "name_ko": "얼룩말",
+    "name_en": "Plains zebra",
+    "scientific_name": "Equus quagga",
+    "image": "assets/animals_2.png",
+    "cell": 2,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "풀을 먹으며 몸에 짧은 털이 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Equus_quagga/",
+    "crop": [
+      484,
+      40,
+      729,
+      271
+    ]
+  },
+  {
+    "id": "animal_029",
+    "name_ko": "말",
+    "name_en": "Horse",
+    "scientific_name": "Equus caballus",
+    "image": "assets/animals_2.png",
+    "cell": 3,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식동물입니다.",
+    "source": "https://animaldiversity.org/accounts/Equus_caballus/",
+    "crop": [
+      754,
+      10,
+      1003,
+      271
+    ]
+  },
+  {
+    "id": "animal_030",
+    "name_ko": "당나귀",
+    "name_en": "Donkey",
+    "scientific_name": "Equus asinus",
+    "image": "assets/animals_2.png",
+    "cell": 4,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식동물입니다.",
+    "source": "https://animaldiversity.org/accounts/Equus_asinus/",
+    "crop": [
+      1008,
+      23,
+      1254,
+      271
+    ]
+  },
+  {
+    "id": "animal_031",
+    "name_ko": "소",
+    "name_en": "Domestic cattle",
+    "scientific_name": "Bos taurus",
+    "image": "assets/animals_2.png",
+    "cell": 5,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "뿔이 있는 품종의 성체 수컷 기준입니다.",
+    "source": "https://animaldiversity.org/accounts/Bos_taurus/",
+    "crop": [
+      0,
+      280,
+      256,
+      532
+    ]
+  },
+  {
+    "id": "animal_032",
+    "name_ko": "양",
+    "name_en": "Domestic sheep",
+    "scientific_name": "Ovis aries",
+    "image": "assets/animals_2.png",
+    "cell": 6,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "뿔이 있는 수컷 기준입니다.",
+    "source": "https://animaldiversity.org/accounts/Ovis_aries/",
+    "crop": [
+      266,
+      289,
+      508,
+      532
+    ]
+  },
+  {
+    "id": "animal_033",
+    "name_ko": "염소",
+    "name_en": "Domestic goat",
+    "scientific_name": "Capra hircus",
+    "image": "assets/animals_2.png",
+    "cell": 7,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "뿔이 있는 성체 기준입니다.",
+    "source": "https://animaldiversity.org/accounts/Capra_hircus/",
+    "crop": [
+      515,
+      280,
+      741,
+      532
+    ]
+  },
+  {
+    "id": "animal_034",
+    "name_ko": "순록",
+    "name_en": "Reindeer",
+    "scientific_name": "Rangifer tarandus",
+    "image": "assets/animals_2.png",
+    "cell": 8,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "가지뿔도 뿔에 포함합니다. 계절에 따라 뿔을 떨어뜨립니다.",
+    "source": "https://animaldiversity.org/accounts/Rangifer_tarandus/",
+    "crop": [
+      753,
+      276,
+      1009,
+      532
+    ]
+  },
+  {
+    "id": "animal_035",
+    "name_ko": "말코손바닥사슴",
+    "name_en": "Moose",
+    "scientific_name": "Alces alces",
+    "image": "assets/animals_2.png",
+    "cell": 9,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "가지뿔이 있는 수컷 기준입니다.",
+    "source": "https://animaldiversity.org/accounts/Alces_alces/",
+    "crop": [
+      1015,
+      278,
+      1254,
+      532
+    ]
+  },
+  {
+    "id": "animal_036",
+    "name_ko": "아메리카들소",
+    "name_en": "American bison",
+    "scientific_name": "Bison bison",
+    "image": "assets/animals_2.png",
+    "cell": 10,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식성이며 뿔과 두꺼운 털이 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Bison_bison/",
+    "crop": [
+      0,
+      539,
+      248,
+      782
+    ]
+  },
+  {
+    "id": "animal_037",
+    "name_ko": "흰코뿔소",
+    "name_en": "White rhinoceros",
+    "scientific_name": "Ceratotherium simum",
+    "image": "assets/animals_2.png",
+    "cell": 11,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": true,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "성체의 성긴 털은 털 특성에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Ceratotherium_simum/",
+    "crop": [
+      252,
+      535,
+      514,
+      783
+    ]
+  },
+  {
+    "id": "animal_038",
+    "name_ko": "하마",
+    "name_en": "Hippopotamus",
+    "scientific_name": "Hippopotamus amphibius",
+    "image": "assets/animals_2.png",
+    "cell": 12,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "낮에는 물에서 쉬고 밤에 나와 풀을 먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Hippopotamus_amphibius/",
+    "crop": [
+      516,
+      562,
+      759,
+      783
+    ]
+  },
+  {
+    "id": "animal_039",
+    "name_ko": "단봉낙타",
+    "name_en": "Dromedary",
+    "scientific_name": "Camelus dromedarius",
+    "image": "assets/animals_2.png",
+    "cell": 13,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "주로 식물을 먹습니다. 혹은 뿔이 아닙니다.",
+    "source": "https://animaldiversity.org/accounts/Camelus_dromedarius/",
+    "crop": [
+      769,
+      544,
+      1003,
+      791
+    ]
+  },
+  {
+    "id": "animal_040",
+    "name_ko": "라마",
+    "name_en": "Llama",
+    "scientific_name": "Lama glama",
+    "image": "assets/animals_2.png",
+    "cell": 14,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식성이며 두꺼운 털이 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Lama_glama/",
+    "crop": [
+      1012,
+      531,
+      1245,
+      789
+    ]
+  },
+  {
+    "id": "animal_041",
+    "name_ko": "붉은캥거루",
+    "name_en": "Red kangaroo",
+    "scientific_name": "Macropus rufus",
+    "image": "assets/animals_2.png",
+    "cell": 15,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "초식성이며 서늘한 밤과 박명기에 활발합니다.",
+    "source": "https://animaldiversity.org/accounts/Macropus_rufus/",
+    "crop": [
+      0,
+      780,
+      227,
+      1017
+    ]
+  },
+  {
+    "id": "animal_042",
+    "name_ko": "코알라",
+    "name_en": "Koala",
+    "scientific_name": "Phascolarctos cinereus",
+    "image": "assets/animals_2.png",
+    "cell": 16,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "유칼립투스 잎이 주식이며 주로 밤에 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Phascolarctos_cinereus/",
+    "crop": [
+      253,
+      790,
+      500,
+      1015
+    ]
+  },
+  {
+    "id": "animal_043",
+    "name_ko": "웜뱃",
+    "name_en": "Common wombat",
+    "scientific_name": "Vombatus ursinus",
+    "image": "assets/animals_2.png",
+    "cell": 17,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "주로 밤에 활동하며 풀을 먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Vombatus_ursinus/",
+    "crop": [
+      510,
+      830,
+      753,
+      1017
+    ]
+  },
+  {
+    "id": "animal_044",
+    "name_ko": "세발가락나무늘보",
+    "name_en": "Brown-throated sloth",
+    "scientific_name": "Bradypus variegatus",
+    "image": "assets/animals_2.png",
+    "cell": 18,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "잎이 주식입니다. 활동 시간은 일정하지 않아 야행성을 고정하지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Bradypus_variegatus/",
+    "crop": [
+      752,
+      790,
+      1004,
+      1018
+    ]
+  },
+  {
+    "id": "animal_045",
+    "name_ko": "아홉띠아르마딜로",
+    "name_en": "Nine-banded armadillo",
+    "scientific_name": "Dasypus novemcinctus",
+    "image": "assets/animals_2.png",
+    "cell": 19,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": true,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "단단한 갑옷이 있으며 배의 성긴 털은 털 특성에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Dasypus_novemcinctus/",
+    "crop": [
+      984,
+      849,
+      1254,
+      1018
+    ]
+  },
+  {
+    "id": "animal_046",
+    "name_ko": "큰개미핥기",
+    "name_en": "Giant anteater",
+    "scientific_name": "Myrmecophaga tridactyla",
+    "image": "assets/animals_2.png",
+    "cell": 20,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "개미·흰개미를 먹으며 활동 시간은 환경에 따라 달라집니다.",
+    "source": "https://animaldiversity.org/accounts/Myrmecophaga_tridactyla/",
+    "crop": [
+      0,
+      1024,
+      255,
+      1254
+    ]
+  },
+  {
+    "id": "animal_047",
+    "name_ko": "미어캣",
+    "name_en": "Meerkat",
+    "scientific_name": "Suricata suricatta",
+    "image": "assets/animals_2.png",
+    "cell": 21,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "낮에 활동하며 곤충 등을 먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Suricata_suricatta/",
+    "crop": [
+      268,
+      1017,
+      438,
+      1254
+    ]
+  },
+  {
+    "id": "animal_048",
+    "name_ko": "잔점박이물범",
+    "name_en": "Harbor seal",
+    "scientific_name": "Phoca vitulina",
+    "image": "assets/animals_2.png",
+    "cell": 22,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": true,
+      "eggs": false
+    },
+    "note": "물속에서 먹이를 잡으며 짧은 털로 덮여 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Phoca_vitulina/",
+    "crop": [
+      449,
+      1035,
+      786,
+      1254
+    ]
+  },
+  {
+    "id": "animal_049",
+    "name_ko": "큰돌고래",
+    "name_en": "Bottlenose dolphin",
+    "scientific_name": "Tursiops truncatus",
+    "image": "assets/animals_2.png",
+    "cell": 23,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "물속에서 살고 새끼를 낳습니다. 성체에 눈에 띄는 털이 없습니다.",
+    "source": "https://animaldiversity.org/accounts/Tursiops_truncatus/",
+    "crop": [
+      747,
+      1022,
+      979,
+      1254
+    ]
+  },
+  {
+    "id": "animal_050",
+    "name_ko": "대왕고래",
+    "name_en": "Blue whale",
+    "scientific_name": "Balaenoptera musculus",
+    "image": "assets/animals_2.png",
+    "cell": 24,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "물속에서 살고 새끼를 낳습니다. 비늘이 없습니다.",
+    "source": "https://animaldiversity.org/accounts/Balaenoptera_musculus/",
+    "crop": [
+      994,
+      1022,
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "animal_051",
+    "name_ko": "황제펭귄",
+    "name_en": "Emperor penguin",
+    "scientific_name": "Aptenodytes forsteri",
+    "image": "assets/animals_3.png",
+    "cell": 0,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "날개로 헤엄치며 물속에서 먹이를 잡습니다. 깃털은 털과 구분합니다.",
+    "source": "https://animaldiversity.org/accounts/Aptenodytes_forsteri/",
+    "crop": [
+      9,
+      0,
+      214,
+      250
+    ]
+  },
+  {
+    "id": "animal_052",
+    "name_ko": "타조",
+    "name_en": "Common ostrich",
+    "scientific_name": "Struthio camelus",
+    "image": "assets/animals_3.png",
+    "cell": 1,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "주로 식물을 먹습니다. 날지 못하지만 날개가 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Struthio_camelus/",
+    "crop": [
+      255,
+      0,
+      490,
+      254
+    ]
+  },
+  {
+    "id": "animal_053",
+    "name_ko": "에뮤",
+    "name_en": "Emu",
+    "scientific_name": "Dromaius novaehollandiae",
+    "image": "assets/animals_3.png",
+    "cell": 2,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "식물과 곤충을 먹는 잡식성이며 작은 날개가 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Dromaius_novaehollandiae/",
+    "crop": [
+      513,
+      0,
+      742,
+      254
+    ]
+  },
+  {
+    "id": "animal_054",
+    "name_ko": "화식조",
+    "name_en": "Southern cassowary",
+    "scientific_name": "Casuarius casuarius",
+    "image": "assets/animals_3.png",
+    "cell": 3,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "과일이 주식입니다. 머리의 투구는 뿔로 분류하지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Casuarius_casuarius/",
+    "crop": [
+      763,
+      0,
+      1006,
+      254
+    ]
+  },
+  {
+    "id": "animal_055",
+    "name_ko": "키위",
+    "name_en": "Brown kiwi",
+    "scientific_name": "Apteryx mantelli",
+    "image": "assets/animals_3.png",
+    "cell": 4,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "야행성이며 깃털에 가려진 아주 작은 날개가 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Apteryx_mantelli/",
+    "crop": [
+      1008,
+      58,
+      1254,
+      254
+    ]
+  },
+  {
+    "id": "animal_056",
+    "name_ko": "흰머리수리",
+    "name_en": "Bald eagle",
+    "scientific_name": "Haliaeetus leucocephalus",
+    "image": "assets/animals_3.png",
+    "cell": 5,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "주로 낮에 활동하고 물고기 등을 먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Haliaeetus_leucocephalus/",
+    "crop": [
+      31,
+      256,
+      233,
+      492
+    ]
+  },
+  {
+    "id": "animal_057",
+    "name_ko": "송골매",
+    "name_en": "Peregrine falcon",
+    "scientific_name": "Falco peregrinus",
+    "image": "assets/animals_3.png",
+    "cell": 6,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "주로 낮에 새를 사냥합니다.",
+    "source": "https://animaldiversity.org/accounts/Falco_peregrinus/",
+    "crop": [
+      279,
+      258,
+      492,
+      492
+    ]
+  },
+  {
+    "id": "animal_058",
+    "name_ko": "가면올빼미",
+    "name_en": "Barn owl",
+    "scientific_name": "Tyto alba",
+    "image": "assets/animals_3.png",
+    "cell": 7,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "주로 밤에 사냥합니다.",
+    "source": "https://animaldiversity.org/accounts/Tyto_alba/",
+    "crop": [
+      520,
+      256,
+      743,
+      492
+    ]
+  },
+  {
+    "id": "animal_059",
+    "name_ko": "흰올빼미",
+    "name_en": "Snowy owl",
+    "scientific_name": "Bubo scandiacus",
+    "image": "assets/animals_3.png",
+    "cell": 8,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "북극의 긴 낮에도 사냥하므로 야행성으로 고정하지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Bubo_scandiacus/",
+    "crop": [
+      767,
+      256,
+      1006,
+      492
+    ]
+  },
+  {
+    "id": "animal_060",
+    "name_ko": "큰홍학",
+    "name_en": "Greater flamingo",
+    "scientific_name": "Phoenicopterus roseus",
+    "image": "assets/animals_3.png",
+    "cell": 9,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "얕은 물에서 먹이를 거릅니다. 물속 생활은 잠수·유영 중심으로 좁게 분류합니다.",
+    "source": "https://animaldiversity.org/accounts/Phoenicopterus_roseus/",
+    "crop": [
+      1012,
+      256,
+      1254,
+      492
+    ]
+  },
+  {
+    "id": "animal_061",
+    "name_ko": "혹고니",
+    "name_en": "Mute swan",
+    "scientific_name": "Cygnus olor",
+    "image": "assets/animals_3.png",
+    "cell": 10,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "수초 중심 식단이며 물에서 헤엄치며 생활합니다.",
+    "source": "https://animaldiversity.org/accounts/Cygnus_olor/",
+    "crop": [
+      0,
+      495,
+      255,
+      727
+    ]
+  },
+  {
+    "id": "animal_062",
+    "name_ko": "청둥오리",
+    "name_en": "Mallard",
+    "scientific_name": "Anas platyrhynchos",
+    "image": "assets/animals_3.png",
+    "cell": 11,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "식물과 작은 동물을 먹는 잡식성입니다.",
+    "source": "https://animaldiversity.org/accounts/Anas_platyrhynchos/",
+    "crop": [
+      268,
+      505,
+      490,
+      727
+    ]
+  },
+  {
+    "id": "animal_063",
+    "name_ko": "캐나다기러기",
+    "name_en": "Canada goose",
+    "scientific_name": "Branta canadensis",
+    "image": "assets/animals_3.png",
+    "cell": 12,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "주로 식물을 먹고 물과 육지에서 생활합니다.",
+    "source": "https://animaldiversity.org/accounts/Branta_canadensis/",
+    "crop": [
+      501,
+      494,
+      751,
+      728
+    ]
+  },
+  {
+    "id": "animal_064",
+    "name_ko": "닭",
+    "name_en": "Domestic chicken",
+    "scientific_name": "Gallus gallus domesticus",
+    "image": "assets/animals_3.png",
+    "cell": 13,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "암탉 그림입니다. 씨앗과 벌레를 모두 먹으며 볏은 뿔이 아닙니다.",
+    "source": "https://animaldiversity.org/accounts/Gallus_gallus_domesticus/",
+    "crop": [
+      776,
+      516,
+      1004,
+      727
+    ]
+  },
+  {
+    "id": "animal_065",
+    "name_ko": "인도공작",
+    "name_en": "Indian peafowl",
+    "scientific_name": "Pavo cristatus",
+    "image": "assets/animals_3.png",
+    "cell": 14,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "수컷 그림입니다. 잡식성이며 날 수 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Pavo_cristatus/",
+    "crop": [
+      1011,
+      491,
+      1254,
+      728
+    ]
+  },
+  {
+    "id": "animal_066",
+    "name_ko": "집비둘기",
+    "name_en": "Rock pigeon",
+    "scientific_name": "Columba livia",
+    "image": "assets/animals_3.png",
+    "cell": 15,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "씨앗 중심 식단입니다.",
+    "source": "https://animaldiversity.org/accounts/Columba_livia/",
+    "crop": [
+      0,
+      729,
+      243,
+      949
+    ]
+  },
+  {
+    "id": "animal_067",
+    "name_ko": "참새",
+    "name_en": "House sparrow",
+    "scientific_name": "Passer domesticus",
+    "image": "assets/animals_3.png",
+    "cell": 16,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "씨앗과 곤충을 먹습니다. 번식기 동물성 먹이를 고려해 잡식으로 분류합니다.",
+    "source": "https://animaldiversity.org/accounts/Passer_domesticus/",
+    "crop": [
+      252,
+      730,
+      501,
+      949
+    ]
+  },
+  {
+    "id": "animal_068",
+    "name_ko": "제비",
+    "name_en": "Barn swallow",
+    "scientific_name": "Hirundo rustica",
+    "image": "assets/animals_3.png",
+    "cell": 17,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "날면서 곤충을 잡아먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Hirundo_rustica/",
+    "crop": [
+      501,
+      727,
+      747,
+      949
+    ]
+  },
+  {
+    "id": "animal_069",
+    "name_ko": "오색딱따구리",
+    "name_en": "Great spotted woodpecker",
+    "scientific_name": "Dendrocopos major",
+    "image": "assets/animals_3.png",
+    "cell": 18,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "곤충과 씨앗 등을 먹는 잡식동물입니다.",
+    "source": "https://animaldiversity.org/accounts/Dendrocopos_major/",
+    "crop": [
+      777,
+      724,
+      977,
+      949
+    ]
+  },
+  {
+    "id": "animal_070",
+    "name_ko": "벌새",
+    "name_en": "Ruby-throated hummingbird",
+    "scientific_name": "Archilochus colubris",
+    "image": "assets/animals_3.png",
+    "cell": 19,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "꽃꿀뿐 아니라 작은 곤충도 중요한 먹이입니다. 밤의 일시 휴면은 겨울잠과 구분합니다.",
+    "source": "https://animaldiversity.org/accounts/Archilochus_colubris/",
+    "crop": [
+      986,
+      732,
+      1254,
+      949
+    ]
+  },
+  {
+    "id": "animal_071",
+    "name_ko": "큰부리새",
+    "name_en": "Toco toucan",
+    "scientific_name": "Ramphastos toco",
+    "image": "assets/animals_3.png",
+    "cell": 20,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "과일과 작은 동물 등을 먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Ramphastos_toco/",
+    "crop": [
+      0,
+      951,
+      260,
+      1254
+    ]
+  },
+  {
+    "id": "animal_072",
+    "name_ko": "금강앵무",
+    "name_en": "Scarlet macaw",
+    "scientific_name": "Ara macao",
+    "image": "assets/animals_3.png",
+    "cell": 21,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "과일·씨앗·견과류 중심 식단입니다.",
+    "source": "https://animaldiversity.org/accounts/Ara_macao/",
+    "crop": [
+      267,
+      950,
+      505,
+      1254
+    ]
+  },
+  {
+    "id": "animal_073",
+    "name_ko": "유황앵무",
+    "name_en": "Sulphur-crested cockatoo",
+    "scientific_name": "Cacatua galerita",
+    "image": "assets/animals_3.png",
+    "cell": 22,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "씨앗·열매·식물의 뿌리 중심 식단입니다.",
+    "source": "https://animaldiversity.org/accounts/Cacatua_galerita/",
+    "crop": [
+      511,
+      927,
+      741,
+      1254
+    ]
+  },
+  {
+    "id": "animal_074",
+    "name_ko": "사다새",
+    "name_en": "Great white pelican",
+    "scientific_name": "Pelecanus onocrotalus",
+    "image": "assets/animals_3.png",
+    "cell": 23,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "물에서 헤엄치며 물고기를 잡습니다.",
+    "source": "https://animaldiversity.org/accounts/Pelecanus_onocrotalus/",
+    "crop": [
+      757,
+      947,
+      1004,
+      1254
+    ]
+  },
+  {
+    "id": "animal_075",
+    "name_ko": "큰까마귀",
+    "name_en": "Common raven",
+    "scientific_name": "Corvus corax",
+    "image": "assets/animals_3.png",
+    "cell": 24,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "낮에 활동하는 잡식동물입니다.",
+    "source": "https://animaldiversity.org/accounts/Corvus_corax/",
+    "crop": [
+      1007,
+      949,
+      1254,
+      1254
+    ]
+  },
+  {
+    "id": "animal_076",
+    "name_ko": "나일악어",
+    "name_en": "Nile crocodile",
+    "scientific_name": "Crocodylus niloticus",
+    "image": "assets/animals_4.png",
+    "cell": 0,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "물과 육지에서 생활합니다. 피부의 비늘·골판은 있으나 껍데기로 분류하지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Crocodylus_niloticus/",
+    "crop": [
+      0,
+      45,
+      248,
+      244
+    ]
+  },
+  {
+    "id": "animal_077",
+    "name_ko": "코모도왕도마뱀",
+    "name_en": "Komodo dragon",
+    "scientific_name": "Varanus komodoensis",
+    "image": "assets/animals_4.png",
+    "cell": 1,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "육식성이며 낮에 주로 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Varanus_komodoensis/",
+    "crop": [
+      254,
+      41,
+      502,
+      244
+    ]
+  },
+  {
+    "id": "animal_078",
+    "name_ko": "초록이구아나",
+    "name_en": "Green iguana",
+    "scientific_name": "Iguana iguana",
+    "image": "assets/animals_4.png",
+    "cell": 2,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "성체는 주로 잎을 먹습니다. 등 가시는 뿔에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Iguana_iguana/",
+    "crop": [
+      510,
+      37,
+      755,
+      244
+    ]
+  },
+  {
+    "id": "animal_079",
+    "name_ko": "예멘카멜레온",
+    "name_en": "Veiled chameleon",
+    "scientific_name": "Chamaeleo calyptratus",
+    "image": "assets/animals_4.png",
+    "cell": 3,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "곤충을 먹습니다. 머리 투구는 뿔로 세지 않습니다.",
+    "source": "https://animaldiversity.org/accounts/Chamaeleo_calyptratus/",
+    "crop": [
+      761,
+      22,
+      1001,
+      244
+    ]
+  },
+  {
+    "id": "animal_080",
+    "name_ko": "레오파드게코",
+    "name_en": "Leopard gecko",
+    "scientific_name": "Eublepharis macularius",
+    "image": "assets/animals_4.png",
+    "cell": 4,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": true,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "박명기와 밤에 활동하며 곤충을 먹습니다.",
+    "source": "https://animaldiversity.org/accounts/Eublepharis_macularius/",
+    "crop": [
+      1003,
+      64,
+      1254,
+      245
+    ]
+  },
+  {
+    "id": "animal_081",
+    "name_ko": "킹코브라",
+    "name_en": "King cobra",
+    "scientific_name": "Ophiophagus hannah",
+    "image": "assets/animals_4.png",
+    "cell": 5,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "주로 다른 뱀을 먹으며 알을 낳습니다.",
+    "source": "https://animaldiversity.org/accounts/Ophiophagus_hannah/",
+    "crop": [
+      0,
+      259,
+      244,
+      486
+    ]
+  },
+  {
+    "id": "animal_082",
+    "name_ko": "볼파이톤",
+    "name_en": "Ball python",
+    "scientific_name": "Python regius",
+    "image": "assets/animals_4.png",
+    "cell": 6,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": true,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "주로 밤에 활동하며 알을 낳습니다.",
+    "source": "https://animaldiversity.org/accounts/Python_regius/",
+    "crop": [
+      253,
+      285,
+      495,
+      486
+    ]
+  },
+  {
+    "id": "animal_083",
+    "name_ko": "붉은귀거북",
+    "name_en": "Red-eared slider",
+    "scientific_name": "Trachemys scripta",
+    "image": "assets/animals_4.png",
+    "cell": 7,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": true,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "잡식성 반수생 거북입니다. 파충류의 겨울 휴면은 겨울잠 항목에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Trachemys_scripta/",
+    "crop": [
+      500,
+      290,
+      747,
+      486
+    ]
+  },
+  {
+    "id": "animal_084",
+    "name_ko": "푸른바다거북",
+    "name_en": "Green sea turtle",
+    "scientific_name": "Chelonia mydas",
+    "image": "assets/animals_4.png",
+    "cell": 8,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": true,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "성체의 해초·해조류 중심 식단 기준입니다.",
+    "source": "https://animaldiversity.org/accounts/Chelonia_mydas/",
+    "crop": [
+      760,
+      282,
+      1004,
+      486
+    ]
+  },
+  {
+    "id": "animal_085",
+    "name_ko": "설가타거북",
+    "name_en": "African spurred tortoise",
+    "scientific_name": "Centrochelys sulcata",
+    "image": "assets/animals_4.png",
+    "cell": 9,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": true,
+      "wings": false,
+      "aquatic": false,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "육상 초식 거북입니다.",
+    "source": "https://animaldiversity.org/accounts/Centrochelys_sulcata/",
+    "crop": [
+      1011,
+      270,
+      1254,
+      486
+    ]
+  },
+  {
+    "id": "animal_086",
+    "name_ko": "유럽산개구리",
+    "name_en": "Common frog",
+    "scientific_name": "Rana temporaria",
+    "image": "assets/animals_4.png",
+    "cell": 10,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "물과 육지에서 생활합니다. 양서류의 겨울 휴면은 겨울잠 항목에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Rana_temporaria/",
+    "crop": [
+      0,
+      529,
+      242,
+      709
+    ]
+  },
+  {
+    "id": "animal_087",
+    "name_ko": "아홀로틀",
+    "name_en": "Axolotl",
+    "scientific_name": "Ambystoma mexicanum",
+    "image": "assets/animals_4.png",
+    "cell": 11,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "평생 물에서 살며 주로 밤에 활동합니다.",
+    "source": "https://animaldiversity.org/accounts/Ambystoma_mexicanum/",
+    "crop": [
+      250,
+      523,
+      500,
+      709
+    ]
+  },
+  {
+    "id": "animal_088",
+    "name_ko": "불도롱뇽",
+    "name_en": "Fire salamander",
+    "scientific_name": "Salamandra salamandra",
+    "image": "assets/animals_4.png",
+    "cell": 12,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "유생을 낳는 대표 개체군 기준으로 알 낳음을 제외합니다. 성체는 육상에서 생활합니다.",
+    "source": "https://animaldiversity.org/accounts/Salamandra_salamandra/",
+    "crop": [
+      504,
+      537,
+      749,
+      714
+    ]
+  },
+  {
+    "id": "animal_089",
+    "name_ko": "유럽두꺼비",
+    "name_en": "Common toad",
+    "scientific_name": "Bufo bufo",
+    "image": "assets/animals_4.png",
+    "cell": 13,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "성체는 주로 육상에서 밤에 활동하고 번식할 때 물을 찾습니다.",
+    "source": "https://animaldiversity.org/accounts/Bufo_bufo/",
+    "crop": [
+      756,
+      521,
+      999,
+      717
+    ]
+  },
+  {
+    "id": "animal_090",
+    "name_ko": "황제영원",
+    "name_en": "Emperor newt",
+    "scientific_name": "Tylototriton shanjing",
+    "image": "assets/animals_4.png",
+    "cell": 14,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "성체의 육상 생활 기준이며 알은 물가에 낳습니다.",
+    "source": "https://animaldiversity.org/accounts/Tylototriton_shanjing/",
+    "crop": [
+      1005,
+      539,
+      1254,
+      722
+    ]
+  },
+  {
+    "id": "animal_091",
+    "name_ko": "백상아리",
+    "name_en": "Great white shark",
+    "scientific_name": "Carcharodon carcharias",
+    "image": "assets/animals_4.png",
+    "cell": 15,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": false
+    },
+    "note": "피부에 작은 방패비늘이 있으며 알을 몸 밖에 낳지 않고 새끼를 낳습니다.",
+    "source": "https://animaldiversity.org/accounts/Carcharodon_carcharias/",
+    "crop": [
+      0,
+      729,
+      268,
+      948
+    ]
+  },
+  {
+    "id": "animal_092",
+    "name_ko": "흰동가리",
+    "name_en": "Clownfish",
+    "scientific_name": "Amphiprion ocellaris",
+    "image": "assets/animals_4.png",
+    "cell": 16,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "물속에 살며 비늘이 있고 알을 낳습니다.",
+    "source": "https://animaldiversity.org/accounts/Amphiprion_ocellaris/",
+    "crop": [
+      260,
+      776,
+      504,
+      948
+    ]
+  },
+  {
+    "id": "animal_093",
+    "name_ko": "금붕어",
+    "name_en": "Goldfish",
+    "scientific_name": "Carassius auratus",
+    "image": "assets/animals_4.png",
+    "cell": 17,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "잡식성 물고기입니다.",
+    "source": "https://animaldiversity.org/accounts/Carassius_auratus/",
+    "crop": [
+      504,
+      735,
+      744,
+      948
+    ]
+  },
+  {
+    "id": "animal_094",
+    "name_ko": "잉어",
+    "name_en": "Common carp",
+    "scientific_name": "Cyprinus carpio",
+    "image": "assets/animals_4.png",
+    "cell": 18,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "비늘이 있는 일반형 기준입니다. 잡식성입니다.",
+    "source": "https://animaldiversity.org/accounts/Cyprinus_carpio/",
+    "crop": [
+      755,
+      757,
+      1006,
+      948
+    ]
+  },
+  {
+    "id": "animal_095",
+    "name_ko": "블루탱",
+    "name_en": "Blue tang",
+    "scientific_name": "Paracanthurus hepatus",
+    "image": "assets/animals_4.png",
+    "cell": 19,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": false,
+      "wings": false,
+      "aquatic": true,
+      "scales": true,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "조류와 동물성 플랑크톤을 먹는 잡식성입니다.",
+    "source": "https://animaldiversity.org/accounts/Paracanthurus_hepatus/",
+    "crop": [
+      1007,
+      774,
+      1254,
+      948
+    ]
+  },
+  {
+    "id": "animal_096",
+    "name_ko": "제왕나비",
+    "name_en": "Monarch butterfly",
+    "scientific_name": "Danaus plexippus",
+    "image": "assets/animals_4.png",
+    "cell": 20,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": true,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "성체의 꽃꿀 식단 기준입니다. 외골격을 단단한 껍질에 포함합니다.",
+    "source": "https://animaldiversity.org/accounts/Danaus_plexippus/",
+    "crop": [
+      0,
+      952,
+      249,
+      1217
+    ]
+  },
+  {
+    "id": "animal_097",
+    "name_ko": "칠성무당벌레",
+    "name_en": "Seven-spotted ladybug",
+    "scientific_name": "Coccinella septempunctata",
+    "image": "assets/animals_4.png",
+    "cell": 21,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": true,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "진딧물 등을 먹으며 딱지날개 아래에 날개가 있습니다.",
+    "source": "https://animaldiversity.org/accounts/Coccinella_septempunctata/",
+    "crop": [
+      261,
+      1006,
+      506,
+      1217
+    ]
+  },
+  {
+    "id": "animal_098",
+    "name_ko": "서양꿀벌",
+    "name_en": "Western honey bee",
+    "scientific_name": "Apis mellifera",
+    "image": "assets/animals_4.png",
+    "cell": 22,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": true,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "꽃꿀·꽃가루 식단입니다. 곤충의 잔털은 포유류 털 항목에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Apis_mellifera/",
+    "crop": [
+      500,
+      957,
+      752,
+      1217
+    ]
+  },
+  {
+    "id": "animal_099",
+    "name_ko": "왕잠자리",
+    "name_en": "Emperor dragonfly",
+    "scientific_name": "Anax imperator",
+    "image": "assets/animals_4.png",
+    "cell": 23,
+    "traits": {
+      "herbivore": false,
+      "hibernate": false,
+      "shell": true,
+      "wings": true,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": false,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "성체는 육상·공중에서 곤충을 사냥합니다. 수생 유충 기준이 아닙니다.",
+    "source": "https://animaldiversity.org/accounts/Anax_imperator/",
+    "crop": [
+      748,
+      961,
+      1003,
+      1217
+    ]
+  },
+  {
+    "id": "animal_100",
+    "name_ko": "로마달팽이",
+    "name_en": "Roman snail",
+    "scientific_name": "Helix pomatia",
+    "image": "assets/animals_4.png",
+    "cell": 24,
+    "traits": {
+      "herbivore": true,
+      "hibernate": false,
+      "shell": true,
+      "wings": false,
+      "aquatic": false,
+      "scales": false,
+      "horns": false,
+      "nocturnal": true,
+      "fur": false,
+      "eggs": true
+    },
+    "note": "육상 초식동물이며 주로 밤에 활동합니다. 겨울 휴면은 겨울잠 항목에서 제외합니다.",
+    "source": "https://animaldiversity.org/accounts/Helix_pomatia/",
+    "crop": [
+      1008,
+      1020,
+      1254,
+      1217
+    ]
+  }
+]
